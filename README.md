@@ -1,7 +1,6 @@
 # 🕵️‍♂️Plagiarism Check Bot
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/plagiarism_bot?style=flat-square)](https://github.com/yourusername/plagiarism_bot/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/yourusername/plagiarism_bot?style=flat-square&color=yellow)]()
 [![Repo Size](https://img.shields.io/github/repo-size/yourusername/plagiarism_bot?style=flat-square&color=orange)]()
