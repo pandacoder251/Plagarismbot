@@ -1,5 +1,10 @@
 # 🕵️‍♂️Plagiarism Check Bot
 
+<p align="center">
+  <a
+    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" width="200px" alt="Plagiarism Bot GIF">
+  </a>
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/plagiarism_bot?style=flat-square)](https://github.com/yourusername/plagiarism_bot/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/yourusername/plagiarism_bot?style=flat-square&color=yellow)]()
