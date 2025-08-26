@@ -1,0 +1,2 @@
+[console_scripts]
+plagiarism-bot = plagiarism_bot:main

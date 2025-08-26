@@ -1,0 +1,8 @@
+README.md
+setup.py
+plagiarism_bot.egg-info/PKG-INFO
+plagiarism_bot.egg-info/SOURCES.txt
+plagiarism_bot.egg-info/dependency_links.txt
+plagiarism_bot.egg-info/entry_points.txt
+plagiarism_bot.egg-info/requires.txt
+plagiarism_bot.egg-info/top_level.txt
